@@ -1,0 +1,19 @@
+I have Created a Single Page Application of Order Management System Using AngularJS ,When User Login the page It Redirects the User to Order Page ie.HomePage and he can View the Full Orders in a Table and  he can perform 
+Operations like Create New Orders and Delete Existing Orders From the table.I have Inserted Dummy Data through JSON Using javaSript methods For Creating a Dummy table Structure.I have Created Authorization Services through User can Login the
+Page, I have set the UserName and Password  Fields in the Login Page,Using validations When User Enters Correct Details then Only, It Can Redirects him to Next Page or it will Show Error.
+I have Also Created a Local server Using Nodejs in which This Project will Run.I have Created a Server to Port:3000, User Have To First Start the Server in Command Prompt Window Using the Command:node server or npm start then the Project will Run on the Browsers Successfully.
+This is to inform you that I have not Created a Popup in this projects Because Due to My code is not Working Properly.
+
+Server Name:Localhost:3000/
+Login Credentials:
+UserName:Mohit
+Password:12345
+
+
+Technical Requirements:
+- I have Used AngularJS 1.6
+- Used NodeJS with Express.
+- Used Bootstrap 3.x for CSS Styling.
+- Used ui-router. 
+- Used angular-ui-bootstrap.
+- Backend Used NodeExpress.
